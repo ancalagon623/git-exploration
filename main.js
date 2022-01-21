@@ -1,0 +1,1 @@
+var heading = document.h1.innerHTML;
